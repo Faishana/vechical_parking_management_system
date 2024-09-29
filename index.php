@@ -59,7 +59,6 @@ if(isset($_POST['login']))
 							</div>
 							<div class="checkbox">
 								
-								<a href="forgot-password.php" style="text-decoration:none;">Forgot Password?</a>
 							</div>
 							<button class="btn btn-success" type="submit" name="login">Login</button></fieldset>
 					</form>
